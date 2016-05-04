@@ -767,8 +767,6 @@ a.article-title:hover {
     -webkit-border-radius: 50%;
     border-radius: 50%;
     background: #ddd;
-    -webkit-box-shadow: 0 1px 2px #fff;
-    box-shadow: 0 1px 2px #fff;
   }
 }
 .article-nav-link-wrap {
